@@ -1,0 +1,136 @@
+/* MOVIES PAGE STYLES */
+.movies-page {
+  background-color: #f6f7fb;
+  min-height: 100vh;
+  padding-bottom: 80px;
+}
+
+.movies-container {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 100px 60px 60px;
+}
+
+.movies-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-bottom: 40px;
+}
+
+.movies-header-left h1 {
+  font-size: 32px;
+  font-weight: 900;
+  color: #111;
+  margin: 0 0 4px;
+  letter-spacing: -0.8px;
+}
+
+.movies-header-left p {
+  color: #888;
+  font-size: 14px;
+  margin: 0;
+}
+
+.movies-filters {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-bottom: 40px;
+}
+
+.filter-row {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.filter-label {
+  font-size: 14px;
+  font-weight: 800;
+  color: #333;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  min-width: 100px;
+}
+
+.filter-options {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.filter-btn {
+  padding: 8px 20px;
+  border-radius: 30px;
+  background: white;
+  border: 1px solid #eee;
+  font-size: 14px;
+  font-weight: 600;
+  color: #666;
+  cursor: pointer;
+  transition: all 0.25s;
+}
+
+.filter-btn:hover {
+  border-color: #E50914;
+  color: #E50914;
+}
+
+.filter-btn.active {
+  background: #E50914;
+  border-color: #E50914;
+  color: white;
+  box-shadow: 0 4px 15px rgba(229,9,20,0.25);
+}
+
+.movies-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 30px;
+}
+
+.movies-no-results {
+  text-align: center;
+  padding: 100px 20px;
+  background: white;
+  border-radius: 24px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+}
+
+.no-results-icon {
+  color: #ddd;
+  margin-bottom: 20px;
+}
+
+.movies-no-results h2 {
+  font-size: 24px;
+  font-weight: 800;
+  color: #aaa;
+  margin: 0 0 10px;
+}
+
+.movies-no-results p {
+  color: #bbb;
+  margin-bottom: 30px;
+}
+
+@media (max-width: 768px) {
+  .movies-container {
+    padding: 100px 24px 40px;
+  }
+  .movies-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+  }
+  .filter-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+  .movies-grid {
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 20px;
+  }
+}

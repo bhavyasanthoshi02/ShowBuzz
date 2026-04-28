@@ -1,0 +1,494 @@
+/* Font loaded via index.html link tag */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ===== GLOBAL RESET ===== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f8f9fa;
+  color: #111;
+}
+
+/* ===== UTILITIES ===== */
+
+/* Hide scrollbar */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Smooth UI */
+button {
+  transition: all 0.25s ease;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Soft shadow */
+.shadow-soft {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+}
+
+/* ============================================
+   GLOBAL
+============================================ */
+/* Auth Loading Screen */
+.auth-loading-screen {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #111;
+  color: white;
+  font-family: 'Inter', sans-serif;
+}
+
+.auth-spinner {
+  width: 40px;
+  height: 40px;
+  border: 3px solid rgba(248, 68, 100, 0.2);
+  border-top: 3px solid #f84464;
+  border-radius: 50%;
+  animation: auth-spin 1s linear infinite;
+  margin-bottom: 20px;
+}
+
+@keyframes auth-spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.auth-loading-screen h2 {
+  font-size: 24px;
+  font-weight: 900;
+  margin: 0;
+  letter-spacing: -0.5px;
+}
+
+.auth-loading-screen p {
+  opacity: 0.5;
+  font-size: 12px;
+  margin-top: 8px;
+}
+:root {
+  --cinema-red: #F84464; /* BookMyShow Signature Red */
+  --cinema-red-hover: #e53958;
+  --text-dark: #333333;
+  --text-muted: #757575;
+  --input-bg: #ffffff;
+  --border-radius: 8px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f8f9fa;
+  color: #333;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom horizontal scroll hide */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* ============================================
+   AUTH PAGES (Login & SignUp)
+============================================ */
+.auth-page {
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Left cinematic panel */
+.auth-left {
+  flex: 1.1;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0 60px;
+  color: white;
+  overflow: hidden;
+}
+
+/* Slideshow */
+.slideshow-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+}
+
+.slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  opacity: 0;
+  transition: opacity 1.5s ease-in-out;
+}
+
+.slide.active {
+  opacity: 1;
+}
+
+.slide-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(rgba(0, 0, 0, 0.38), rgba(0, 0, 0, 0.38));
+  z-index: 1;
+}
+
+.auth-left::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 200px;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.65), transparent);
+  z-index: 2;
+}
+
+.auth-content {
+  position: relative;
+  z-index: 3;
+}
+
+/* Slideshow dots */
+.pagination-dots {
+  position: absolute;
+  bottom: 32px;
+  left: 60px;
+  display: flex;
+  gap: 8px;
+  z-index: 4;
+}
+
+.dot {
+  width: 8px;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.35);
+  border-radius: 2px;
+  transition: all 0.3s ease;
+}
+
+.dot.active {
+  width: 24px;
+  background: var(--cinema-red);
+}
+
+/* Badge */
+.badge {
+  background: var(--cinema-red);
+  color: white;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  width: fit-content;
+  margin-bottom: 16px;
+}
+
+.auth-left h1 {
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 1.1;
+  margin-bottom: 16px;
+}
+
+.auth-left h1 span {
+  color: var(--cinema-red);
+}
+
+.auth-left p {
+  font-size: 16px;
+  max-width: 400px;
+  color: rgba(255, 255, 255, 0.8);
+  line-height: 1.5;
+}
+
+/* Right form panel */
+.auth-right {
+  flex: 0.9;
+  display: flex;
+  flex-direction: column;
+  padding: 40px 80px;
+  background: white;
+  justify-content: center;
+  overflow-y: auto;
+}
+
+.logo-container {
+  margin-bottom: 24px;
+}
+
+.logo-text {
+  color: var(--cinema-red);
+  font-weight: 800;
+  font-style: italic;
+  font-size: 26px;
+  letter-spacing: -0.5px;
+}
+
+.auth-title {
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+
+.auth-subtitle {
+  color: var(--text-muted);
+  margin-bottom: 24px;
+  font-size: 14px;
+}
+
+/* Form */
+.form-group {
+  margin-bottom: 14px;
+}
+
+.form-label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--text-dark);
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+
+.form-label svg {
+  width: 13px;
+  height: 13px;
+}
+
+.input-field {
+  width: 100%;
+  padding: 12px 16px;
+  background: var(--input-bg);
+  border: 1px solid #e5e5e5;
+  border-radius: var(--border-radius);
+  font-size: 14px;
+  color: var(--text-dark);
+  transition: all 0.2s ease;
+}
+
+.input-field:focus {
+  outline: none;
+  border-color: var(--cinema-red);
+  box-shadow: 0 0 0 1px rgba(248, 68, 100, 0.1);
+}
+
+.password-input-container {
+  position: relative;
+}
+
+.password-input-container .input-field {
+  padding-right: 48px;
+}
+
+.password-toggle {
+  position: absolute;
+  right: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-muted);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.2s ease;
+}
+
+.password-toggle:hover {
+  color: var(--cinema-red);
+}
+
+.terms-checkbox {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 13px;
+  color: var(--text-muted);
+  margin: 16px 0;
+}
+
+.terms-checkbox input {
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+}
+
+/* Buttons */
+.submit-btn {
+  width: 100%;
+  padding: 14px;
+  background: var(--cinema-red);
+  color: white;
+  border: none;
+  border-radius: var(--border-radius);
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.submit-btn:hover {
+  background: var(--cinema-red-hover);
+  transform: translateY(-1px);
+}
+
+.submit-btn:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.social-button {
+  width: 100%;
+  padding: 12px;
+  border-radius: 12px;
+  border: 1px solid #eee;
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.social-button:hover {
+  background: #f9f9f9;
+  border-color: #ddd;
+}
+
+/* Divider */
+.divider {
+  margin: 20px 0;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.divider span {
+  font-size: 11px;
+  font-weight: 700;
+  color: #999;
+}
+
+/* Links */
+.auth-link-container {
+  margin-top: 20px;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 13px;
+}
+
+.auth-link-container a {
+  color: var(--cinema-red);
+  text-decoration: none;
+  font-weight: 700;
+  margin-left: 6px;
+}
+
+/* Error */
+.error-message {
+  background: rgba(239, 68, 68, 0.08);
+  border: 1px solid rgba(239, 68, 68, 0.2);
+  color: #ef4444;
+  padding: 10px 14px;
+  border-radius: 10px;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* Mobile */
+@media (max-width: 1024px) {
+  .auth-left {
+    display: none;
+  }
+
+  .auth-right {
+    flex: 1;
+    padding: 30px 20px;
+  }
+}
+
+/* =========================================
+   HOME UI ENHANCEMENTS
+========================================= */
+
+/* Smooth transitions */
+button {
+  transition: all 0.25s ease;
+}
+
+/* Section animation feel */
+section {
+  transition: all 0.3s ease;
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Better shadows */
+.shadow-soft {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+}
+
+/* Improve scrollbar feel */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hover lift effect */
+.hover-lift:hover {
+  transform: translateY(-4px);
+}

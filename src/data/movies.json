@@ -1,0 +1,874 @@
+{
+  "telugu": [
+    {
+      "title": "RRR",
+      "genre": "Action/Drama",
+      "rating": 9,
+      "duration": "3h 7m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776787727/hq720_ngahsq.jpg",
+      "trailer": "https://www.youtube.com/watch?v=NgBoMJy386M",
+      "category": "Trending",
+      "director": "S. S. Rajamouli",
+      "crew": {
+        "music": "M. M. Keeravani",
+        "cinematography": "K. K. Senthil Kumar"
+      },
+      "cast": [
+        "NTR Jr.",
+        "Ram Charan",
+        "Alia Bhatt",
+        "Ajay Devgn"
+      ],
+      "description": "RRR is an epic period action drama set in pre-independence India, weaving a fictional story around two legendary revolutionaries. The narrative explores their contrasting personalities, emotional journeys, and eventual unity against British oppression. With grand visual storytelling, powerful performances, and emotionally charged sequences, the film balances intense action with deep themes of friendship, sacrifice, and patriotism."
+    },
+    {
+      "title": "Pushpa: The Rise",
+      "genre": "Action",
+      "rating": 8.5,
+      "duration": "2h 59m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776787906/87713870_m0xnpq.jpg",
+      "trailer": "https://www.youtube.com/watch?v=Q1NKMPhP8PY",
+      "category": "Trending",
+      "director": "Sukumar",
+      "crew": {
+        "music": "Devi Sri Prasad",
+        "cinematography": "Mirosław Kuba Brożek"
+      },
+      "cast": [
+        "Allu Arjun",
+        "Rashmika Mandanna",
+        "Fahadh Faasil"
+      ],
+      "description": "Pushpa follows the journey of a rebellious laborer who rises in the dangerous world of red sandalwood smuggling. Set in the forests of Andhra Pradesh, the story portrays his transformation from a daily wage worker to a feared figure in the illegal trade. The film explores ambition, survival, and power struggles, driven by strong character development and raw storytelling."
+    },
+    {
+      "title": "Salaar",
+      "genre": "Action",
+      "rating": 8.7,
+      "duration": "2h 55m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776787993/salaar-from-today-v0-x87747u7zo7c1_mapqnp.jpg",
+      "trailer": "https://www.youtube.com/watch?v=4GPvYMKtrtI",
+      "category": "Trending",
+      "director": "Prashanth Neel",
+      "crew": {
+        "music": "Ravi Basrur",
+        "cinematography": "Bhuvan Gowda"
+      },
+      "cast": [
+        "Prabhas",
+        "Shruti Haasan",
+        "Prithviraj Sukumaran"
+      ],
+      "description": "Salaar is a gritty action drama set in a violent, dystopian world ruled by power and betrayal. The story follows a mysterious man whose past is filled with bloodshed and loyalty, as he rises to become a dominant force among rival factions. The film blends intense action with emotional depth, focusing on friendship, vengeance, and political dominance."
+    },
+    {
+      "title": "Hi Nanna",
+      "genre": "Romance/Drama",
+      "rating": 8.3,
+      "duration": "2h 30m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776788056/Hi-Nanna-Movie-Review_uoqfjg.jpg",
+      "trailer": "https://www.youtube.com/watch?v=Iz97_kxHaSc",
+      "category": "Recommended",
+      "director": "Shouryuv",
+      "crew": {
+        "music": "Hesham Abdul Wahab",
+        "cinematography": "Sanu Varghese"
+      },
+      "cast": [
+        "Nani",
+        "Mrunal Thakur",
+        "Baby Kiara"
+      ],
+      "description": "Hi Nanna is a heartfelt romantic drama that explores the complexities of love, loss, and fatherhood. The story follows a single father who raises his young daughter while grappling with memories of his past and the challenges of protecting his secrets. Through emotional storytelling and beautiful performances, the film delves into deep relationships and the true meaning of family."
+    },
+    {
+      "title": "Eagle",
+      "genre": "Action/Thriller",
+      "rating": 7.8,
+      "duration": "2h 36m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776788120/et00361924-hvywuztskd-landscape_ueu1jd.jpg",
+      "trailer": "https://www.youtube.com/watch?v=2sX0lElZKQE",
+      "category": "Recommended",
+      "director": "Karthik Ghattamaneni",
+      "crew": {
+        "music": "Davzand",
+        "cinematography": "Karthik Ghattamaneni"
+      },
+      "cast": [
+        "Ravi Teja"
+      ],
+      "description": "Eagle follows a mysterious man whose past is filled with secrets. As his identity unfolds, he becomes central to a mission that challenges his morality and strength."
+    },
+    {
+      "title": "Guntur Kaaram",
+      "genre": "Action/Drama",
+      "rating": 7.5,
+      "duration": "2h 39m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776788222/Guntur-Kaaram-m-1_bqf6hd.jpg",
+      "trailer": "https://www.youtube.com/watch?v=V-n_w4t9eEU",
+      "category": "Trending",
+      "director": "Trivikram Srinivas",
+      "crew": {
+        "music": "Thaman S",
+        "cinematography": "Manoj Paramahamsa"
+      },
+      "cast": [
+        "Mahesh Babu",
+        "Ramya Krishnan",
+        "Sreeleela"
+      ],
+      "description": "Guntur Kaaram is a mass entertainer centered around a fiery protagonist dealing with family conflicts and political influence. The narrative blends emotional drama with commercial action elements."
+    },
+    {
+      "title": "Dasara",
+      "genre": "Action/Drama",
+      "rating": 8.1,
+      "duration": "2h 36m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776788301/dasaara-1680161101_ro5so9.jpg",
+      "trailer": "https://www.youtube.com/watch?v=qrtcNKCc-fo",
+      "category": "Trending",
+      "director": "Srikanth Odela",
+      "crew": {
+        "music": "Santhosh Narayanan",
+        "cinematography": "Sathyan Sooryan"
+      },
+      "cast": [
+        "Nani",
+        "Keerthy Suresh",
+        "Deekshith Shetty"
+      ],
+      "description": "Set in a coal mining village, Dasara presents a raw and emotional story of friendship, love, and revenge. The protagonist rises against injustice and societal oppression while navigating personal loss. The film captures rural life authentically, with strong emotional beats and intense action."
+    },
+    {
+      "title": "Baby",
+      "genre": "Romance",
+      "rating": 8,
+      "duration": "2h 40m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776788370/maxresdefault_qcjkyz.jpg",
+      "trailer": "https://www.youtube.com/watch?v=_npN4uwDMLk",
+      "category": "Recommended",
+      "director": "Sai Rajesh Neel",
+      "crew": {
+        "music": "Vijay Bulganin",
+        "cinematography": "Bal Reddy"
+      },
+      "cast": [
+        "Anand Deverakonda",
+        "Vaishnavi Chaitanya"
+      ],
+      "description": "Baby follows the journey of a young couple navigating first love and societal expectations. The film explores their emotional connection as they face challenges and decisions that test their relationship. With heartfelt performances and relatable moments, Baby captures the innocence and complexities of young romance."
+    },
+    {
+      "title": "Virupaksha",
+      "genre": "Thriller",
+      "rating": 8.2,
+      "duration": "2h 25m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776788463/99400690_nrtcvn.jpg",
+      "trailer": "https://www.youtube.com/watch?v=BC9s_Zof_Xk",
+      "category": "Trending",
+      "director": "Karthik Dandu",
+      "crew": {
+        "music": "B. Ajaneesh Loknath",
+        "cinematography": "Shamdat Sainudeen"
+      },
+      "cast": [
+        "Sai Dharam Tej",
+        "Samyuktha Menon"
+      ],
+      "description": "Virupaksha is a supernatural thriller set in a mysterious village plagued by unexplained deaths. As fear grips the villagers, a man uncovers secrets tied to dark rituals and curses. The narrative builds tension through atmospheric storytelling, blending horror with suspense."
+    },
+    {
+      "title": "Bro",
+      "genre": "Fantasy/Drama",
+      "rating": 7.2,
+      "duration": "2h 15m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776788849/bg4_bro_daxa8a.jpg",
+      "trailer": "https://www.youtube.com/watch?v=ArOm-GWR6Zk",
+      "category": "Recommended",
+      "director": "Samuthirakani",
+      "crew": {
+        "music": "Thaman S",
+        "cinematography": "Sujith Vaassudev"
+      },
+      "cast": [
+        "Pawan Kalyan",
+        "Sai Dharam Tej"
+      ],
+      "description": "Bro is a fantasy drama where a man is given a second chance at life. Through divine intervention, he learns valuable lessons about time, relationships, and priorities."
+    },
+    {
+      "title": "Skanda",
+      "genre": "Action",
+      "rating": 6.8,
+      "duration": "2h 47m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776788891/1621202-h-44bc5febf5a9_gktazn.jpg",
+      "trailer": "https://www.youtube.com/watch?v=rFnxNiiw1wI",
+      "category": "Upcoming",
+      "director": "Boyapati Srinu",
+      "crew": {
+        "music": "Thaman S",
+        "cinematography": "Santosh Detake"
+      },
+      "cast": [
+        "Ram Pothineni",
+        "Sreeleela"
+      ],
+      "description": "Skanda is an action-heavy film featuring a powerful hero battling corruption and political conspiracies. The film emphasizes high-energy action and emotional drama."
+    },
+    {
+      "title": "Kushi",
+      "genre": "Romance",
+      "rating": 7.9,
+      "duration": "2h 43m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776788939/100093399_qz4k37.jpg",
+      "trailer": "https://www.youtube.com/watch?v=8kFiQcu3f8E",
+      "category": "Recommended",
+      "director": "Shiva Nirvana",
+      "crew": {
+        "music": "Hesham Abdul Wahab",
+        "cinematography": "G. Murali"
+      },
+      "cast": [
+        "Vijay Deverakonda",
+        "Samantha Ruth Prabhu"
+      ],
+      "description": "Kushi explores modern relationships through the lens of love, belief systems, and family expectations. The couple navigates emotional conflicts arising from ideological differences, offering a mix of romance, humor, and introspection."
+    },
+    {
+      "title": "Tillu Square",
+      "genre": "Comedy",
+      "rating": 8.4,
+      "duration": "2h 10m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776788991/1081501-aposterfromtillusquare_rocccv.webp",
+      "trailer": "https://www.youtube.com/watch?v=JrdixTnMl8E",
+      "category": "Trending",
+      "director": "Mallik Ram",
+      "crew": {
+        "music": "Ram Miryala",
+        "cinematography": "Siddharth"
+      },
+      "cast": [
+        "Siddhu Jonnalagadda",
+        "Anupama Parameswaran"
+      ],
+      "description": "Tillu Square continues the quirky adventures of its protagonist as he gets entangled in crime and romance. Packed with humor and unexpected twists, the film delivers an entertaining mix of chaos and charm."
+    },
+    {
+      "title": "MAD",
+      "genre": "Comedy",
+      "rating": 7.6,
+      "duration": "2h 7m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776789034/hq720_dlw1b5.jpg",
+      "trailer": "https://www.youtube.com/watch?v=bQRCyrNmhj4",
+      "category": "Recommended",
+      "director": "Kalyan Shankar",
+      "crew": {
+        "music": "Bheems Ceciroleo",
+        "cinematography": "Shamdat"
+      },
+      "cast": [
+        "Narne Nithiin",
+        "Sangeeth Shobhan",
+        "Ram Nithin"
+      ],
+      "description": "MAD is a fun-filled college drama that captures youthful energy, friendship, and chaos. The film balances humor with relatable situations, portraying the carefree yet transformative phase of student life."
+    },
+    {
+      "title": "Agent",
+      "genre": "Spy/Action",
+      "rating": 6.5,
+      "duration": "2h 36m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776789082/99601539_g2sybs.jpg",
+      "trailer": "https://www.youtube.com/watch?v=5W6afZ_tMsk",
+      "category": "Upcoming",
+      "director": "Surender Reddy",
+      "crew": {
+        "music": "Hiphop Tamizha",
+        "cinematography": "Rasool Ellore"
+      },
+      "cast": [
+        "Akhil Akkineni"
+      ],
+      "description": "Agent is a spy thriller about a reckless operative assigned to a high-risk mission. The narrative explores espionage, identity, and transformation through intense action sequences."
+    }
+  ],
+  "tamil": [
+    {
+      "title": "Leo",
+      "genre": "Action/Thriller",
+      "rating": 8.5,
+      "duration": "2h 44m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776789150/maxresdefault_exavfk.jpg",
+      "trailer": "https://www.youtube.com/watch?v=Po3jStA673E",
+      "category": "Trending",
+      "director": "Lokesh Kanagaraj",
+      "crew": {
+        "music": "Anirudh Ravichander",
+        "cinematography": "Manoj Paramahamsa"
+      },
+      "cast": [
+        "Vijay",
+        "Trisha",
+        "Sanjay Dutt"
+      ],
+      "description": "Leo follows a quiet café owner whose violent past resurfaces when dangerous criminals begin hunting him. As his identity slowly unfolds, he is forced to confront his past and protect his family. The film combines intense action, emotional drama, and a gripping narrative with unexpected twists."
+    },
+    {
+      "title": "Jailer",
+      "genre": "Action/Drama",
+      "rating": 8.3,
+      "duration": "2h 48m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776789202/bg5_jailer_v86pil.jpg",
+      "trailer": "https://www.youtube.com/watch?v=Y5BeWdODPqo",
+      "category": "Trending",
+      "director": "Nelson",
+      "crew": {
+        "music": "Anirudh Ravichander",
+        "cinematography": "Vijay Kartik Kannan"
+      },
+      "cast": [
+        "Rajinikanth",
+        "Vinayakan",
+        "Ramya Krishnan"
+      ],
+      "description": "Jailer centers around a retired prison officer whose peaceful life is disrupted when his family becomes the target of criminals. Returning to his old ways, he takes on enemies with wit and power. The film blends action with humor and strong character moments."
+    },
+    {
+      "title": "Vikram",
+      "genre": "Action/Thriller",
+      "rating": 8.8,
+      "duration": "2h 53m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776789242/1498381-i-718d16c041ce_aipzch.jpg",
+      "trailer": "https://www.youtube.com/watch?v=OKBMCL-frPU",
+      "category": "Trending",
+      "director": "Lokesh Kanagaraj",
+      "crew": {
+        "music": "Anirudh Ravichander",
+        "cinematography": "Girish Gangadharan"
+      },
+      "cast": [
+        "Kamal Haasan",
+        "Fahadh Faasil",
+        "Vijay Sethupathi"
+      ],
+      "description": "Vikram is a high-octane action thriller revolving around a covert mission to dismantle a powerful drug syndicate. With multiple characters and intersecting storylines, the film delivers intense action, suspense, and a layered narrative."
+    },
+    {
+      "title": "Master",
+      "genre": "Action/Drama",
+      "rating": 8.1,
+      "duration": "2h 59m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776789295/e33382_5842e5a373f444758ffd84ff571fb297_mv2_h0x2lh.jpg",
+      "trailer": "https://www.youtube.com/watch?v=UTiXQcrLlv4",
+      "category": "Trending",
+      "director": "Lokesh Kanagaraj",
+      "crew": {
+        "music": "Anirudh Ravichander",
+        "cinematography": "Sathyan Sooryan"
+      },
+      "cast": [
+        "Vijay",
+        "Vijay Sethupathi"
+      ],
+      "description": "Master tells the story of an alcoholic professor who is assigned to a juvenile home, where he confronts a ruthless gangster exploiting children. The film explores redemption, justice, and transformation while delivering action-packed sequences."
+    },
+    {
+      "title": "Kaithi",
+      "genre": "Action/Thriller",
+      "rating": 8.7,
+      "duration": "2h 25m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776789344/b4a1ba87123937.5daeb6af5f27c_npfxro.webp",
+      "trailer": "https://www.youtube.com/watch?v=UTiXQcrLlv4",
+      "category": "Trending",
+      "director": "Lokesh Kanagaraj",
+      "crew": {
+        "music": "Sam C. S.",
+        "cinematography": "Sathyan Sooryan"
+      },
+      "cast": [
+        "Karthi"
+      ],
+      "description": "Kaithi follows an ex-convict who is forced to help police officers transport seized drugs while facing a deadly attack from a powerful gang. The entire story unfolds in one night, creating a gripping and intense cinematic experience."
+    },
+    {
+      "title": "Ponniyin Selvan: Part 1",
+      "genre": "Historical/Drama",
+      "rating": 8,
+      "duration": "2h 47m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776789391/maxresdefault_qfzhhi.jpg",
+      "trailer": "https://www.youtube.com/watch?v=D4qAQYlgZQs",
+      "category": "Recommended",
+      "director": "Mani Ratnam",
+      "crew": {
+        "music": "A. R. Rahman",
+        "cinematography": "Ravi Varman"
+      },
+      "cast": [
+        "Vikram",
+        "Karthi",
+        "Aishwarya Rai"
+      ],
+      "description": "An epic historical drama set in the Chola dynasty, exploring political intrigue, royal ambitions, and betrayal. The film introduces a vast world of characters and sets the stage for an intense power struggle."
+    },
+    {
+      "title": "Ponniyin Selvan: Part 2",
+      "genre": "Historical/Drama",
+      "rating": 8.2,
+      "duration": "2h 44m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776789430/maxresdefault_xn5dt1.jpg",
+      "trailer": "https://www.youtube.com/watch?v=EnhS3matIoU",
+      "category": "Recommended",
+      "director": "Mani Ratnam",
+      "crew": {
+        "music": "A. R. Rahman",
+        "cinematography": "Ravi Varman"
+      },
+      "cast": [
+        "Vikram",
+        "Karthi",
+        "Jayam Ravi"
+      ],
+      "description": "The continuation of the Chola saga, focusing on the culmination of political conspiracies and emotional conflicts. The film resolves key storylines while maintaining its grand scale and dramatic intensity."
+    },
+    {
+      "title": "Thunivu",
+      "genre": "Action",
+      "rating": 7.5,
+      "duration": "2h 26m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776789490/thunivu_txfyn9.jpg",
+      "trailer": "https://www.youtube.com/watch?v=jnBZboK17_A",
+      "category": "Trending",
+      "director": "H. Vinoth",
+      "crew": {
+        "music": "Ghibran",
+        "cinematography": "Nirav Shah"
+      },
+      "cast": [
+        "Ajith Kumar"
+      ],
+      "description": "Thunivu revolves around a mysterious man involved in a bank heist that exposes deeper corruption within financial systems. The film blends suspense, action, and social commentary."
+    },
+    {
+      "title": "Varisu",
+      "genre": "Family/Drama",
+      "rating": 7.3,
+      "duration": "2h 50m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776789544/55f6fbc95526f25ecfc18d3dc246eb2f_ypifew.jpg",
+      "trailer": "https://www.youtube.com/watch?v=9fux9swQ5AQ",
+      "category": "Recommended",
+      "director": "Vamshi Paidipally",
+      "crew": {
+        "music": "Thaman S",
+        "cinematography": "Karthik Palani"
+      },
+      "cast": [
+        "Vijay",
+        "Rashmika Mandanna"
+      ],
+      "description": "Varisu is a family drama about a son stepping into his father’s business empire. As he navigates relationships and responsibilities, the film explores themes of family, legacy, and emotional bonds."
+    },
+    {
+      "title": "Don",
+      "genre": "Comedy/Drama",
+      "rating": 7.9,
+      "duration": "2h 43m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776789583/Don_2022_poster_hsmwt8.jpg",
+      "trailer": "https://www.youtube.com/watch?v=s5ak-NY6OC8",
+      "category": "Recommended",
+      "director": "Cibi Chakaravarthi",
+      "crew": {
+        "music": "Anirudh Ravichander",
+        "cinematography": "K. M. Bhaskaran"
+      },
+      "cast": [
+        "Sivakarthikeyan",
+        "Priyanka Mohan",
+        "S. J. Suryah"
+      ],
+      "description": "Don is a coming-of-age story that follows a student navigating academic pressure, personal aspirations, and family expectations. The film balances humor with emotional growth."
+    },
+    {
+      "title": "Love Today",
+      "genre": "Romance/Comedy",
+      "rating": 8.4,
+      "duration": "2h 34m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776789627/tnm_2Fimport_2Fsites_2Fdefault_2Ffiles_2FLoveToday_AGSEntertainment_Twitter_181222_1200_u57q1s.jpg",
+      "trailer": "https://www.youtube.com/watch?v=FaQe8JFGdaM",
+      "category": "Trending",
+      "director": "Pradeep Ranganathan",
+      "crew": {
+        "music": "Yuvan Shankar Raja",
+        "cinematography": "Dinesh Purushothaman"
+      },
+      "cast": [
+        "Pradeep Ranganathan",
+        "Ivana"
+      ],
+      "description": "A modern romantic comedy that explores trust and relationships in the digital age. When a couple is forced to exchange phones, hidden truths come to light, leading to chaos and self-discovery."
+    },
+    {
+      "title": "Mark Antony",
+      "genre": "Sci-Fi/Action",
+      "rating": 7.8,
+      "duration": "2h 31m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776789695/maxresdefault_pt53xh.jpg",
+      "trailer": "https://www.youtube.com/watch?v=Dg8X7SZ_4bs",
+      "category": "Trending",
+      "director": "Adhik Ravichandran",
+      "crew": {
+        "music": "G. V. Prakash Kumar",
+        "cinematography": "Abinandhan Ramanujam"
+      },
+      "cast": [
+        "Vishal",
+        "S. J. Suryah"
+      ],
+      "description": "Mark Antony is a sci-fi action film involving time travel through a unique device. The story blends humor, action, and alternate timelines, creating a fast-paced and entertaining narrative."
+    },
+    {
+      "title": "Captain Miller",
+      "genre": "Action/Drama",
+      "rating": 7.7,
+      "duration": "2h 38m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776789756/captain-miller-12525784-16x9_1.jpg_xnqsqq.jpg",
+      "trailer": "https://www.youtube.com/watch?v=ujhWbKP1rKA",
+      "category": "Upcoming",
+      "director": "Arun Matheswaran",
+      "crew": {
+        "music": "G. V. Prakash Kumar",
+        "cinematography": "Siddhartha Nuni"
+      },
+      "cast": [
+        "Dhanush"
+      ],
+      "description": "Set in the pre-independence era, Captain Miller follows a rebel leader fighting against oppression. The film blends historical context with intense action and emotional storytelling."
+    },
+    {
+      "title": "Ayalaan",
+      "genre": "Sci-Fi",
+      "rating": 7.6,
+      "duration": "2h 35m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776789804/hq720_piu2wu.jpg",
+      "trailer": "https://www.youtube.com/watch?v=kNpwAxnjbNA",
+      "category": "Upcoming",
+      "director": "R. Ravikumar",
+      "crew": {
+        "music": "A. R. Rahman",
+        "cinematography": "Nirav Shah"
+      },
+      "cast": [
+        "Sivakarthikeyan",
+        "Rakul Preet Singh"
+      ],
+      "description": "Ayalaan is a science fiction film about an alien visiting Earth and forming a bond with a human. Together, they take on powerful enemies while delivering a mix of humor, emotion, and adventure."
+    },
+    {
+      "title": "Indian 2",
+      "genre": "Action/Drama",
+      "rating": 8.1,
+      "duration": "2h 40m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776789839/Event_41964_tglcre.jpg",
+      "trailer": "https://www.youtube.com/watch?v=3bvBUT5pQYY",
+      "category": "Upcoming",
+      "director": "Shankar",
+      "crew": {
+        "music": "Anirudh Ravichander",
+        "cinematography": "R. Rathnavelu"
+      },
+      "cast": [
+        "Kamal Haasan"
+      ],
+      "description": "Indian 2 continues the story of a vigilante fighting corruption. As the system becomes more complex, he returns to expose injustice and inspire change through his actions."
+    }
+  ],
+  "hindi": [
+    {
+      "title": "Jawan",
+      "genre": "Action",
+      "rating": 8.6,
+      "duration": "2h 49m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776789896/shah-rukh-khan--jawan--srk-films-295651-16x9.jpg_m84wge.jpg",
+      "trailer": "https://www.youtube.com/watch?v=COv52Qyctws",
+      "category": "Trending",
+      "director": "Atlee",
+      "crew": {
+        "music": "Anirudh Ravichander",
+        "cinematography": "G. K. Vishnu"
+      },
+      "cast": [
+        "Shah Rukh Khan",
+        "Nayanthara",
+        "Vijay Sethupathi"
+      ],
+      "description": "Jawan is a high-energy action drama that follows a man driven by a personal vendetta against corruption and injustice. As he leads a group of women to execute carefully planned missions, the story reveals deeper layers of his past and emotional motivations. The film blends mass action with social themes, delivering both spectacle and substance."
+    },
+    {
+      "title": "Pathaan",
+      "genre": "Action",
+      "rating": 8.4,
+      "duration": "2h 26m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776789938/IMG_5289-900x472_wxl1ma.jpg",
+      "trailer": "https://www.youtube.com/watch?v=vqu4z34wENw",
+      "category": "Trending",
+      "director": "Siddharth Anand",
+      "crew": {
+        "music": "Vishal-Shekhar",
+        "cinematography": "Satchith Paulose"
+      },
+      "cast": [
+        "Shah Rukh Khan",
+        "Deepika Padukone",
+        "John Abraham"
+      ],
+      "description": "Pathaan follows an exiled RAW agent who returns to stop a dangerous terrorist organization. With high-stakes action, global missions, and intense confrontations, the film explores themes of loyalty, sacrifice, and patriotism while delivering a sleek spy thriller experience."
+    },
+    {
+      "title": "Animal",
+      "genre": "Drama",
+      "rating": 8.7,
+      "duration": "3h 21m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776790004/maxresdefault_lpltav.jpg",
+      "trailer": "https://www.youtube.com/watch?v=8FkLRUJj-o0",
+      "category": "Trending",
+      "director": "Sandeep Reddy Vanga",
+      "crew": {
+        "music": "Harshavardhan Rameshwar",
+        "cinematography": "Amit Roy"
+      },
+      "cast": [
+        "Ranbir Kapoor",
+        "Rashmika Mandanna"
+      ],
+      "description": "Animal is a dark psychological drama that delves into the complexities of a father-son relationship. The protagonist’s obsessive love and emotional instability lead him down a path of violence and transformation. The film explores themes of identity, masculinity, and emotional trauma."
+    },
+    {
+      "title": "Dunki",
+      "genre": "Comedy/Drama",
+      "rating": 7.9,
+      "duration": "2h 40m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776790032/230864-dunki_oiremj.webp",
+      "trailer": "https://www.youtube.com/watch?v=Zd69FfhBmSc",
+      "category": "Recommended",
+      "director": "Rajkumar Hirani",
+      "crew": {
+        "music": "Pritam",
+        "cinematography": "C. K. Muraleedharan"
+      },
+      "cast": [
+        "Shah Rukh Khan",
+        "Taapsee Pannu"
+      ],
+      "description": "Dunki is a heartfelt drama centered on illegal immigration through unconventional routes. The story follows individuals chasing dreams of a better life abroad while facing emotional and physical hardships. It blends humor, emotion, and realism in a socially relevant narrative."
+    },
+    {
+      "title": "Fighter",
+      "genre": "Action",
+      "rating": 7.8,
+      "duration": "2h 46m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776790061/maxresdefault_p0sy0p.jpg",
+      "trailer": "https://www.youtube.com/watch?v=6amIq_mP4xM",
+      "category": "Trending",
+      "director": "Siddharth Anand",
+      "crew": {
+        "music": "Vishal-Shekhar",
+        "cinematography": "Satchith Paulose"
+      },
+      "cast": [
+        "Hrithik Roshan",
+        "Deepika Padukone"
+      ],
+      "description": "Fighter is an aerial action drama that follows elite Air Force pilots protecting the nation from external threats. The film combines patriotism with high-octane aerial combat sequences, while also exploring personal relationships within the squad."
+    },
+    {
+      "title": "Brahmastra",
+      "genre": "Fantasy",
+      "rating": 7.5,
+      "duration": "2h 47m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776790094/maxresdefault_lr9wh4.jpg",
+      "trailer": "https://www.youtube.com/watch?v=BUjXzrgntcY",
+      "category": "Recommended",
+      "director": "Ayan Mukerji",
+      "crew": {
+        "music": "Pritam",
+        "cinematography": "V. Manikandan"
+      },
+      "cast": [
+        "Ranbir Kapoor",
+        "Alia Bhatt",
+        "Amitabh Bachchan"
+      ],
+      "description": "Brahmastra is a fantasy adventure rooted in Indian mythology. It follows a young man discovering his connection to divine powers while battling dark forces. The film blends visual spectacle with mythological storytelling."
+    },
+    {
+      "title": "KGF 2",
+      "genre": "Action",
+      "rating": 8.8,
+      "duration": "2h 48m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776790159/straight-from-the-sets-of-kgf2-film-wont-suffer-due-to-sanjay-dutts-health-920x518_cd5exr.jpg",
+      "trailer": "https://www.youtube.com/watch?v=JKa05nyUmuQ",
+      "category": "Trending",
+      "director": "Prashanth Neel",
+      "crew": {
+        "music": "Ravi Basrur",
+        "cinematography": "Bhuvan Gowda"
+      },
+      "cast": [
+        "Yash",
+        "Sanjay Dutt",
+        "Raveena Tandon"
+      ],
+      "description": "KGF Chapter 2 continues the story of Rocky, who has risen to power in the gold mines of Kolar. As he consolidates his dominance, new enemies emerge, including a ruthless adversary determined to destroy him. The film explores themes of ambition, power, and legacy while delivering high-intensity action and larger-than-life storytelling."
+    },
+    {
+      "title": "Drishyam 2",
+      "genre": "Thriller",
+      "rating": 8.9,
+      "duration": "2h 20m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776790187/hq720_ftbgio.jpg",
+      "trailer": "https://www.youtube.com/watch?v=cxA2y9Tgl7o",
+      "category": "Trending",
+      "director": "Abhishek Pathak",
+      "crew": {
+        "music": "Devi Sri Prasad",
+        "cinematography": "Sudhir Kumar Chaudhary"
+      },
+      "cast": [
+        "Ajay Devgn",
+        "Tabu",
+        "Akshaye Khanna"
+      ],
+      "description": "Drishyam 2 picks up years after the original incident, where Vijay Salgaonkar continues to protect his family from a hidden crime. As new evidence surfaces and the investigation reopens, the story unfolds with gripping twists and psychological tension, keeping viewers guessing until the end."
+    },
+    {
+      "title": "Stree 2",
+      "genre": "Horror/Comedy",
+      "rating": 8.1,
+      "duration": "2h 10m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776790218/Untitled-design-48_e2mjof.jpg",
+      "trailer": "https://www.youtube.com/watch?v=VlvOgk5BHS4",
+      "category": "Upcoming",
+      "director": "Amar Kaushik",
+      "crew": {
+        "music": "Sachin-Jigar",
+        "cinematography": "Amalendu Chaudhary"
+      },
+      "cast": [
+        "Rajkummar Rao",
+        "Shraddha Kapoor"
+      ],
+      "description": "Stree 2 continues the supernatural mystery in a small town haunted by a female spirit. Blending horror with comedy, the story expands the universe with new characters and deeper lore, while maintaining its quirky humor and suspenseful moments."
+    },
+    {
+      "title": "War 2",
+      "genre": "Action",
+      "rating": 8.5,
+      "duration": "2h 30m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776790253/bg3-war2_olepdk.jpg",
+      "trailer": "https://www.youtube.com/watch?v=mjBym9uKth4",
+      "category": "Upcoming",
+      "director": "Ayan Mukerji",
+      "crew": {
+        "music": "Pritam",
+        "cinematography": "Benjamin Jasper"
+      },
+      "cast": [
+        "Hrithik Roshan",
+        "NTR Jr."
+      ],
+      "description": "War 2 expands the spy universe with a new high-stakes mission involving elite agents. As alliances shift and betrayals unfold, the film delivers intense action sequences, global espionage, and a clash between powerful operatives."
+    },
+    {
+      "title": "Tiger 3",
+      "genre": "Action",
+      "rating": 8,
+      "duration": "2h 36m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776790282/maxresdefault_lphxiu.jpg",
+      "trailer": "https://www.youtube.com/watch?v=vEjTUDjjU6A",
+      "category": "Trending",
+      "director": "Maneesh Sharma",
+      "crew": {
+        "music": "Pritam",
+        "cinematography": "Anay Goswamy"
+      },
+      "cast": [
+        "Salman Khan",
+        "Katrina Kaif"
+      ],
+      "description": "Tiger 3 follows the journey of a seasoned spy facing a new global threat. As personal stakes rise, he must protect his country and loved ones while navigating betrayal and danger in an action-packed narrative."
+    },
+    {
+      "title": "Chandu Champion",
+      "genre": "Drama",
+      "rating": 7.7,
+      "duration": "2h 20m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776790323/maxresdefault_qeenlf.jpg",
+      "trailer": "https://www.youtube.com/watch?v=IHQQK_Wn5DM",
+      "category": "Recommended",
+      "director": "Kabir Khan",
+      "crew": {
+        "music": "Pritam",
+        "cinematography": "Sudeep Chatterjee"
+      },
+      "cast": [
+        "Kartik Aaryan"
+      ],
+      "description": "Chandu Champion is an inspiring sports drama based on a real-life athlete’s journey. It portrays determination, resilience, and the pursuit of excellence against all odds, capturing both emotional and physical struggles."
+    },
+    {
+      "title": "12th Fail",
+      "genre": "Drama",
+      "rating": 9.1,
+      "duration": "2h 26m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776790356/media_136d0810bf9993f83d059ffbc400092e523633747_bzrp9x.jpg",
+      "trailer": "https://www.youtube.com/watch?v=afEJYg0tyJ4",
+      "category": "Trending",
+      "director": "Vidhu Vinod Chopra",
+      "crew": {
+        "music": "Shantanu Moitra",
+        "cinematography": "Rangarajan Ramabadran"
+      },
+      "cast": [
+        "Vikrant Massey"
+      ],
+      "description": "12th Fail is a powerful biographical drama about a young man who overcomes poverty and failure to achieve success through determination and hard work. The film highlights the importance of perseverance and integrity."
+    },
+    {
+      "title": "Article 370",
+      "genre": "Political Drama",
+      "rating": 8.2,
+      "duration": "2h 15m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776790384/Chalo-1_wuj48v.jpg",
+      "trailer": "https://www.youtube.com/watch?v=6Pf6RUmq7S0",
+      "category": "Recommended",
+      "director": "Aditya Suhas Jambhale",
+      "crew": {
+        "music": "Shashwat Sachdev",
+        "cinematography": "Siddharth Vasani"
+      },
+      "cast": [
+        "Yami Gautam"
+      ],
+      "description": "Article 370 explores the political and strategic decisions behind a major constitutional change in India. The film blends drama with realism, focusing on intelligence operations and national security."
+    },
+    {
+      "title": "Crew",
+      "genre": "Comedy",
+      "rating": 7.6,
+      "duration": "2h 5m",
+      "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776790413/AAAAQduMzmC52KyGC6vNFDDEi5yjnJKQVxFvTmI7Jvv-QSnxOLXj6TA3K7AtzcjuWebHHcE8MD2BXqSr00G81b31SYHiPnP1fLqUsZKfWpw3uhCsmUO-1sIvWrhNsKVe7Y4c7xPiSmgOYOKxLTKgiFk2_r8944n.jpg",
+      "trailer": "https://www.youtube.com/watch?v=3uvfq4Cu8R8",
+      "category": "Recommended",
+      "director": "Rajesh Krishnan",
+      "crew": {
+        "music": "Badshah",
+        "cinematography": "Anuj Rakesh Dhawan"
+      },
+      "cast": [
+        "Kareena Kapoor",
+        "Tabu",
+        "Kriti Sanon"
+      ],
+      "description": "Crew is a lighthearted comedy-drama revolving around airline staff who find themselves caught in unexpected situations. The film blends humor with elements of ambition and survival."
+    }
+  ]
+}

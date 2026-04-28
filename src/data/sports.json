@@ -1,0 +1,167 @@
+[
+  {
+    "id": "s1",
+    "title": "IPL 2024: CSK vs RCB",
+    "category": "Cricket",
+    "date": "24 Apr 2024",
+    "time": "07:30 PM",
+    "venue": "M. A. Chidambaram Stadium, Chennai",
+    "price": 1200,
+    "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776871939/IPL-2024-CSK-vs-RCB_-Match-preview-head-to-head-and-streaming-details_wzijqy.jpg",
+    "status": "Booking Open"
+  },
+  {
+    "id": "s2",
+    "title": "ISL: Mumbai City FC vs ATKMB",
+    "category": "Football",
+    "date": "26 Apr 2024",
+    "time": "08:00 PM",
+    "venue": "Mumbai Football Arena, Mumbai",
+    "price": 500,
+    "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776872012/sports-2022-11-06t163518.297-166773296716x9_av6k3x.jpg",
+    "status": "Filling Fast"
+  },
+  {
+    "id": "s3",
+    "title": "Pro Kabaddi: Pink Panthers vs Thalaivas",
+    "category": "Kabaddi",
+    "date": "28 Apr 2024",
+    "time": "07:00 PM",
+    "venue": "Gachibowli Indoor Stadium, Hyderabad",
+    "price": 300,
+    "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776872055/GZD01FqhOx_se3rkn.jpg",
+    "status": "Booking Open"
+  },
+  {
+    "id": "s4",
+    "title": "IPL 2024: MI vs SRH",
+    "category": "Cricket",
+    "date": "29 Apr 2024",
+    "time": "07:30 PM",
+    "venue": "Wankhede Stadium, Mumbai",
+    "price": 1500,
+    "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776872108/IPL-2023-Match-25-SRH-Vs-MI-Match-Astrology-Predictions_cvomoz.png",
+    "status": "Sold Out"
+  },
+  {
+    "id": "s5",
+    "title": "Champions League Final Screening",
+    "category": "Football",
+    "date": "01 Jun 2024",
+    "time": "11:30 PM",
+    "venue": "Hard Rock Cafe, Banjara Hills",
+    "price": 800,
+    "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776872162/2589699-53692695-2560-1440_mxfbrx.jpg",
+    "status": "Upcoming"
+  },
+  {
+    "id": "s6",
+    "title": "Kabaddi Nationals: Finals",
+    "category": "Kabaddi",
+    "date": "05 May 2024",
+    "time": "06:30 PM",
+    "venue": "Tau Devi Lal Stadium, Gurugram",
+    "price": 200,
+    "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776872221/Iran_men_27s_national_kabaddi_team_13970602000432636707284535394012_98208_fgdpkk.jpg",
+    "status": "Booking Open"
+  },
+  {
+    "id": "s7",
+    "title": "T20 World Cup: India vs Pakistan",
+    "category": "Cricket",
+    "date": "09 Jun 2024",
+    "time": "08:00 PM",
+    "venue": "Nassau County Stadium, New York",
+    "price": 5000,
+    "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776872254/ind-vs-pak-155556713-16x9_0_sp3q4r.jpg",
+    "status": "Upcoming"
+  },
+  {
+    "id": "s8",
+    "title": "Premier League: Liverpool vs Arsenal",
+    "category": "Football",
+    "date": "12 May 2024",
+    "time": "09:00 PM",
+    "venue": "Anfield, Liverpool",
+    "price": 2500,
+    "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776872313/Namaste-Prem-LIV-V-ARS-31-AUG-1-scaled_mdtnef.jpg",
+    "status": "Filling Fast"
+  },
+  {
+    "id": "s9",
+    "title": "Pro Kabaddi: Bulls vs Warriors",
+    "category": "Kabaddi",
+    "date": "15 May 2024",
+    "time": "07:30 PM",
+    "venue": "Kanteerava Stadium, Bengaluru",
+    "price": 400,
+    "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776872352/Dream11-Guru-Predictions-and-Tips_Bengal-Warriors-vs-Bengaluru-Bulls-PKL-2019_ifimab.jpg",
+    "status": "Booking Open"
+  },
+  {
+    "id": "s10",
+    "title": "IPL 2024: GT vs KKR",
+    "category": "Cricket",
+    "date": "13 May 2024",
+    "time": "07:30 PM",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "price": 1000,
+    "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776872388/gt-vs-kkr-13th-may_keplvc.png",
+    "status": "Booking Open"
+  },
+  {
+    "id": "s11",
+    "title": "Wimbledon Finals: Alcaraz vs Djokovic",
+    "category": "Tennis",
+    "date": "14 Jul 2024",
+    "time": "06:30 PM",
+    "venue": "Centre Court, London",
+    "price": 8000,
+    "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776872420/maxresdefault_rseqsg.jpg",
+    "status": "Upcoming"
+  },
+  {
+    "id": "s12",
+    "title": "NBA Finals Screening",
+    "category": "Basketball",
+    "date": "06 Jun 2024",
+    "time": "06:00 AM",
+    "venue": "Sports Bar, Jubilee Hills",
+    "price": 600,
+    "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776872470/siakam-guarding-sga_ea03jt.jpg",
+    "status": "Booking Open"
+  },
+  {
+    "id": "s13",
+    "title": "Pro Kabaddi: Patna Pirates vs Bengal Warriors",
+    "category": "Kabaddi",
+    "date": "20 May 2024",
+    "time": "08:00 PM",
+    "venue": "Patliputra Sports Complex, Patna",
+    "price": 350,
+    "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776872531/0RlGDcDvEw_x8ysql.jpg",
+    "status": "Booking Open"
+  },
+  {
+    "id": "s14",
+    "title": "IPL 2024: RR vs LSG",
+    "category": "Cricket",
+    "date": "15 May 2024",
+    "time": "07:30 PM",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "price": 900,
+    "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776872570/WhatsApp-Image-2024-03-23-at-12.45.32-PM_m3g1o4.jpg",
+    "status": "Filling Fast"
+  },
+  {
+    "id": "s15",
+    "title": "F1: Monaco Grand Prix Screening",
+    "category": "Motorsports",
+    "date": "26 May 2024",
+    "time": "06:30 PM",
+    "venue": "The Forum Mall, Hyderabad",
+    "price": 400,
+    "poster": "https://res.cloudinary.com/dpt0bypdk/image/upload/v1776872615/Screenshot-2023-05-08-at-12.38.38-PM-1170x500_moact1.png",
+    "status": "Booking Open"
+  }
+]

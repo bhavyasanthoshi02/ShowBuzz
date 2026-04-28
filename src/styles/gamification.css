@@ -1,0 +1,396 @@
+:root {
+  --coin-gold: #FFD700;
+  --coin-gold-dark: #B8860B;
+  --streak-fire: #FF4D4D;
+  --premium-dark: #1A1A1A;
+  --bg-light: #F8F9FA;
+}
+
+/* Page Layout */
+.rewards-page {
+  font-family: 'Inter', sans-serif;
+  color: var(--premium-dark);
+}
+
+.rewards-header {
+  background: linear-gradient(135deg, #1A1A1A 0%, #333333 100%);
+  color: white;
+  padding: 80px 40px;
+  text-align: center;
+  border-radius: 0 0 60px 60px;
+  position: relative;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+}
+
+.rewards-title {
+  font-size: 48px;
+  font-weight: 900;
+  margin: 10px 0;
+  letter-spacing: -1px;
+}
+
+.coin-total {
+  font-size: 72px;
+  font-weight: 950;
+  color: var(--coin-gold);
+  margin: 20px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  text-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+/* Main Grid Alignment */
+.home-main {
+  max-width: 1200px;
+  margin: -60px auto 100px;
+  padding: 0 20px;
+  position: relative;
+  z-index: 5;
+}
+
+.rewards-grid-container {
+  display: grid;
+  grid-template-columns: 400px 1fr;
+  gap: 40px;
+  align-items: start;
+}
+
+/* Side Panels */
+.rewards-left, .rewards-right {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+/* Streak Card */
+.streak-counter {
+  background: white;
+  padding: 24px;
+  border-radius: 32px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.06);
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  border: 1px solid rgba(0,0,0,0.03);
+}
+
+.streak-icon {
+  width: 56px;
+  height: 56px;
+  background: #FFF5F5;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--streak-fire);
+}
+
+.streak-info h4 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 800;
+}
+
+.streak-info p {
+  margin: 4px 0 0;
+  font-size: 13px;
+  color: #666;
+}
+
+/* Spin Wheel Alignment */
+.spin-wheel-card {
+  background: white;
+  padding: 35px;
+  border-radius: 40px;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.08);
+  text-align: center;
+  border: 1px solid rgba(0,0,0,0.03);
+}
+
+.wheel-container {
+  position: relative;
+  width: 280px;
+  height: 280px;
+  margin: 30px auto;
+  padding: 10px;
+  background: #333;
+  border-radius: 50%;
+  box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+}
+
+.wheel {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  position: relative;
+  transition: transform 4s cubic-bezier(0.15, 0, 0.15, 1);
+  background: conic-gradient(
+    #F84464 0deg 45deg,
+    #222 45deg 90deg,
+    #F84464 90deg 135deg,
+    #222 135deg 180deg,
+    #F84464 180deg 225deg,
+    #222 225deg 270deg,
+    #F84464 270deg 315deg,
+    #222 315deg 360deg
+  );
+  border: 4px solid #444;
+}
+
+.wheel-label {
+  position: absolute;
+  width: 50%;
+  height: 50px;
+  top: calc(50% - 25px);
+  left: 50%;
+  transform-origin: left center;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 20px;
+  color: white;
+  font-weight: 900;
+  font-size: 14px;
+  pointer-events: none;
+}
+
+.wheel-label span {
+  display: block;
+  transform: rotate(90deg); /* Make text perpendicular to radius */
+}
+
+.wheel-pointer {
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 30px;
+  height: 40px;
+  background: #FFF;
+  clip-path: polygon(50% 100%, 0 0, 100% 0);
+  z-index: 10;
+  filter: drop-shadow(0 4px 10px rgba(0,0,0,0.3));
+}
+
+.spin-button {
+  width: 100%;
+  padding: 18px;
+  background: var(--premium-dark);
+  color: white;
+  border: none;
+  border-radius: 20px;
+  font-size: 16px;
+  font-weight: 800;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-top: 20px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+.spin-button:hover:not(:disabled) {
+  background: #000;
+  transform: translateY(-2px);
+  box-shadow: 0 15px 30px rgba(0,0,0,0.2);
+}
+
+/* Badges Grid Alignment */
+.badges-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+
+.badge-card {
+  background: white;
+  padding: 30px 20px;
+  border-radius: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  border: 2px solid transparent;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.04);
+}
+
+.badge-card.unlocked {
+  border-color: rgba(255, 215, 0, 0.3);
+  background: linear-gradient(to bottom, #ffffff, #fffdf0);
+}
+
+.badge-card.unlocked:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(255, 215, 0, 0.15);
+}
+
+.badge-card.locked {
+  filter: grayscale(1);
+  opacity: 0.5;
+}
+
+.badge-icon-wrap {
+  width: 80px;
+  height: 80px;
+  border-radius: 24px;
+  background: #F8F9FA;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+.badge-card.unlocked .badge-icon-wrap {
+  background: #FFF9ED;
+  color: var(--coin-gold-dark);
+  box-shadow: 0 8px 16px rgba(255, 215, 0, 0.1);
+}
+
+/* Loyalty & Badges Header */
+.badges-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.badges-header h2 {
+  font-size: 26px;
+  font-weight: 900;
+  letter-spacing: -0.5px;
+}
+
+.badge-count {
+  background: rgba(248, 68, 100, 0.1);
+  color: #F84464;
+  padding: 6px 14px;
+  border-radius: 12px;
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.badge-sparkle {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  color: var(--coin-gold);
+}
+
+/* Loyalty Levels Section */
+.loyalty-levels {
+  margin-top: 40px;
+  background: white;
+  padding: 30px;
+  border-radius: 40px;
+  box-shadow: 0 15px 40px rgba(0,0,0,0.06);
+  border: 1px solid rgba(0,0,0,0.03);
+}
+
+.loyalty-title {
+  font-size: 18px;
+  font-weight: 900;
+  margin: 0 0 20px;
+}
+
+.level-progress-bar {
+  height: 12px;
+  background: #F0F0F0;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+.level-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #F84464, #FF6B81);
+  border-radius: 10px;
+  transition: width 1s cubic-bezier(0.15, 0, 0.15, 1);
+}
+
+.level-info {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  font-weight: 700;
+  color: #444;
+}
+
+.next-level-target {
+  color: #F84464;
+}
+
+/* Back Button */
+.back-btn {
+  transition: all 0.3s ease;
+}
+
+.back-btn:hover {
+  background: rgba(255,255,255,0.2) !important;
+  transform: translateX(-5px);
+}
+
+.badge-name {
+  font-size: 15px;
+  font-weight: 800;
+  margin-bottom: 6px;
+  color: #333;
+}
+
+.badge-desc {
+  font-size: 11px;
+  color: #888;
+  line-height: 1.4;
+  padding: 0 10px;
+}
+
+/* Celebration Toast */
+.celebration-toast {
+  position: fixed;
+  bottom: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: white;
+  padding: 16px 32px;
+  border-radius: 24px;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.25);
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  z-index: 10000;
+  animation: slideUpFade 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  border: 1px solid rgba(0,0,0,0.05);
+}
+
+@keyframes slideUpFade {
+  from { transform: translate(-50%, 100px); opacity: 0; }
+  to { transform: translate(-50%, 0); opacity: 1; }
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 900px) {
+  .rewards-grid-container {
+    grid-template-columns: 1fr;
+  }
+  
+  .badges-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .rewards-header {
+    padding: 60px 20px;
+  }
+}
+
+@media (max-width: 500px) {
+  .badges-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .wheel-container {
+    width: 240px;
+    height: 240px;
+  }
+}
